@@ -1,0 +1,49 @@
+# Gradle build files
+/build/
+/.gradle/
+/out/
+/bin/
+
+# Avoid tracking Gradle wrapper jar file
+gradle-wrapper.jar
+
+# IDEA project files
+.idea/
+/*.iml
+/.vscode/
+/*.ipr
+/*.iws
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.class
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Maven files (if any)
+target/
+
+# Eclipse specific
+.metadata/
+
+# Application-specific
+logs/
+*.log
